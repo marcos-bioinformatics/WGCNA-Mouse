@@ -1,5 +1,5 @@
 # WGCNA-Mouse
-WGCNA Analysis on proteomic data from GLUT1 KO mouse.
+WGCNA Analysis of proteomic data from GLUT1 KO mouse.
 
 This repository contains the code from the analysis performed in:
 
